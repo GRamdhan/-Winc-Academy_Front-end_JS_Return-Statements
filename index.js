@@ -30,3 +30,4 @@ const average = function (number1, number2, number3, number4, number5) {
 }
 
 console.log(average(3, 5, 3, 5, 9));
+//function above calculate something
